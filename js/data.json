@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1",
+        "models": "Anniversary Diamond",
+        "price": 8500,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "img": "./img/DiamanteAnniversary.jpg"
+    },
+
+    {
+        "id": "2",
+        "models": "Diamante Art Deco",
+        "price": 4300,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "img": "./img/diamanteArtDeco.jpg"
+    },
+
+    {
+        "id": "3",
+        "models": "Eternity",
+        "price": 6000,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "img": "./img/diamanteEternityBand.jpg"
+    },
+
+    {
+        "id": "4",
+        "models": "Clear Cut",
+        "price": 9500,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "img": "./img/diamanteWhite2.jpg"
+    },
+
+    {
+        "id": "5",
+        "models": "Floral",
+        "price": 7000,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "img": "./img/diamanteFloral1.jpg"
+    },
+
+    {
+        "id": "6",
+        "models": "Floral 2",
+        "price": 8100,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "img": "./img/diamanteFloral2.jpg"
+    },
+
+    {
+        "id": "7",
+        "models": "Sapphire",
+        "price": 2890,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "img": "./img/diamanteSapphireRing.jpg"
+    },
+
+    {
+        "id": "8",
+        "models": "White Gold",
+        "price": 3500,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "img": "./img/diamanteWhiteGold.jpg"
+    },
+
+    {
+        "id": "9",
+        "models": "White Gold 2",
+        "price": 5000,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "img": "./img/diamanteWhite2.jpg"
+    }
+]
